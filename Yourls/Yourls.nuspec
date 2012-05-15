@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/smithrobs/csharp-yourls/MIT-LICENSE</licenseUrl>
+    <projectUrl>https://github.com/smithrobs/csharp-yourls</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>url yourls shortner util</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
